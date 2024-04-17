@@ -26,3 +26,4 @@ We can achieve this effect by applying the Sobel operator to the image.
 For detailed explanation click on link below :
 
 {% embed https://dev.to/vivekvohra/cs50-pset-filtermore-helperc-4h21 %}
+[I'm an inline-style link with title](//dev.to/vivekvohra/cs50-pset-filtermore-helperc-4h21 "PSet: Filter(more)")
