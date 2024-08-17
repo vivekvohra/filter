@@ -9,6 +9,11 @@ In this problem, we have to code the following filter:
 
 - **Edge** function takes an image and highlights the edges between objects, according to the Sobel operator.
 
+
+<h3>For detailed explanation click on link below :</h3>
+
+[PSet: Filter(more)](//dev.to/vivekvohra/cs50-pset-filtermore-helperc-4h21 "PSet: Filter(more)")
+
 ### Grayscale:
 This function takes an image and converts it into a black-and-white version of the same image. This is done by taking an average of the **RGB**  values of each pixel and setting them all equal to the average.
 
