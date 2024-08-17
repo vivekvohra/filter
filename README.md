@@ -22,6 +22,8 @@ The purpose here is to return a blurred version of the input image. We do this b
 ## Edge:
 
 We can achieve this effect by applying the Sobel operator to the image.
+<h3>Below is the results of the function:</h3>
+<img align="center" src = "https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw3mrq2kk7kno6oxisioo.png">
 
 For detailed explanation click on link below :
 
